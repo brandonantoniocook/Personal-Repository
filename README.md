@@ -5,5 +5,9 @@
 
 [Work](https://github.com/brandonantoniocook/Personal-Repository/projects/1)
 
-## [Directories](Directories)
+a {
+  color:inherit;
+  ## [Directories](Directories)
+}
+
 ## [Relative Documents](RelativeDocuments)
