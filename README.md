@@ -5,6 +5,6 @@
 
 [Work](https://github.com/brandonantoniocook/Personal-Repository/projects/1)
 
-## [Directories](Directories)
+## Directories
 
-## [Relative Documents](RelativeDocuments)
+## Relative Documents
