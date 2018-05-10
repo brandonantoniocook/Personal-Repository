@@ -8,3 +8,5 @@
 ## Directories
 
 ## Relative Documents
+https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ/videos
+Kelsey Hightower
