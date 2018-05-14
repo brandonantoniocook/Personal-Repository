@@ -11,3 +11,4 @@
 https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ/videos
 Kelsey Hightower
 https://yamakira.github.io/python-network-programming/index.html
+https://academy.gns3.com/courses/python-programming-for-real-life-networking-use/lectures/280644
